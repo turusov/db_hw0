@@ -1,7 +1,9 @@
 сложно разнести NOSql бд в терминах САР 
 
 DragonFly AP, можно настроить в сторону CP
+
 ScyllaDB дефолт AP, но можно настроить в сторону CP
+
 ArenadataDB AP 
 
 
